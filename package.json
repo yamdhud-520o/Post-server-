@@ -1,6 +1,7 @@
 {
   "name": "fb-automator",
   "version": "1.0.0",
+  "description": "Facebook Automation Tool",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
